@@ -19,4 +19,7 @@ Do remember that the majority of the people who provide these resources are just
 ## In regard to hardware modification
 GPD is quite tolerant in regard to hardware modifications, if you have to RMA your device, as long as you can proof nothing you did caused the issues you are trying to fix, they will allow it. So feel free to open up the device to swap out the SSD or thermal paste or even just to admire the hardware inside! And about the "warrenty void if removed" sticker you might see on one of the screws, GPD doesn't really care about those and you can feel free to destory the sticker and open the device up as long as you do not damage the device.
 
+## Replacement parts
+GPD is quite generous with replacement parts, if a part of the device is dead on arrival and you think you can swap the broken part out yourself without sending the device back to GPD, they will gladly send you the parts to repair it yourself. As for parts that could gets broken by the users or just die over time like the screen or keyboard assembly, you can contact GPD via email to request to purchase replacement parts easily.
+
 Many people even try to "upgrade" their cooling system by adding extra thermal pads or even heatpipes! Just be careful not to scratch the motherboard or break any fragile connectors when you are modding the device!
