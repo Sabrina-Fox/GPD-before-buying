@@ -16,7 +16,7 @@ With how niche the market is for products like these, often times you will be ab
 
 Do remember that the majority of the people who provide these resources are just end users themselves who are just passionate about the products, they are often volunteer and do not get paid to help you with your problems, so please be understanding when someone doesn't reply qucikly or can't help you with a specific problem, as different people have different knowledge about different field, one user might be knowledgable about OSes and can help you with problems related to windows, but they wouldn't be able to help you much with hardware problems such as a broken cooling fan, and the reverse also applies, another user might be knowledgable about hardware but not software and they wouldn't be able to help you much about software related troubles.
 
-##In regard to hardware modification
+## In regard to hardware modification
 GPD is quite tolerant in regard to hardware modifications, if you have to RMA your device, as long as you can proof nothing you did caused the issues you are trying to fix, they will allow it. So feel free to open up the device to swap out the SSD or thermal paste or even just to admire the hardware inside! And about the "warrenty void if removed" sticker you might see on one of the screws, GPD doesn't really care about those and you can feel free to destory the sticker and open the device up as long as you do not damage the device.
 
 Many people even try to "upgrade" their cooling system by adding extra thermal pads or even heatpipes! Just be careful not to scratch the motherboard or break any fragile connectors when you are modding the device!
